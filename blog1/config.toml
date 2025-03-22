@@ -1,0 +1,8 @@
+baseurl = "https://josualaurant.github.io/"
+languageCode = "en-US"
+title = "My New Hugo Site"
+
+theme="hugo-theme-dream"
+
+[params]
+zenMode = false
